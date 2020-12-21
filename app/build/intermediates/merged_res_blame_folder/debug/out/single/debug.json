@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_avers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_avers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_opener.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_opener.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_avers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_avers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_avers_2.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_avers_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_revers_2.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_revers_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_avers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_avers.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_avers.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_revers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_revers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_opener.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_opener.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_revers.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_revers.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_avers_2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_avers_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_revers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_revers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_avers.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\CoinFlipper\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_avers.png"
+    }
+]
